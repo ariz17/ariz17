@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="250" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif" />
 
 -🎓 A Computer Science Engineering Student
-<br>-💻 Learning Full Stack Development
+<br>-💻 Learning Full Stack Development & DSA in Java
 <br>-🤖 Exploring AI/ML and emerging technologies
 
 -📝 My Blogs:
