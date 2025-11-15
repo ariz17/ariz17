@@ -57,7 +57,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="35" height="35" alt="Gmail" />
   </a>
 </div>
-
-  <br><br>
-  💙 Thanks for visiting my profile! Let's connect and build something amazing together.
 </div>
