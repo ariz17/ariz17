@@ -34,11 +34,11 @@
 
 - 🖥️ **<a href="https://ariz17vintage.vercel.app/" target="_blank">Vintage 2.0</a>**  
   *A Retro desktop experience with a taskbar and embedded applications.  
-  Features games, a music player, and much more.*
+  Features games, a music player and much more.*
 
 - 👨‍🍳 **<a href="https://ariz17cookit.vercel.app/" target="_blank">Cook It</a>**  
   *A fast-paced cooking game where players select ingredients and serve customers.  
-  Choose your chef, background, and beat the clock.*
+  Choose your chef, background and beat the clock.*
 
 <br><br>
 
