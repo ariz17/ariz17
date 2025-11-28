@@ -1,4 +1,4 @@
-# Hi👋 I'm Mohd Arbab Rizvi
+# Hi, I'm Mohd Arbab Rizvi
 
 <img align="right" alt="Coding" width="250" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif" />
 
