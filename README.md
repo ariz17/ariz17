@@ -43,7 +43,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://leetcode.com/leetcode.com/ariz17/" target="_blank">
+  <a href="https://leetcode.com/ariz17/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" height="35" alt="LeetCode" />
   </a> &nbsp;&nbsp;
 
