@@ -28,7 +28,7 @@
   *A real-time collaboration platform with HD video calls, group meetings, and virtual backgrounds.  
   Supports Google OAuth, AI smart replies, and live rooms.*
 
-- 🖥️ **<a href="https://ariz17vintage.vercel.app/" target="_blank">Vintage 2.0</a>**  
+- 📱 **<a href="https://ariz17vintage.vercel.app/" target="_blank">Vintage 2.0</a>**  
   *A Retro desktop experience with a taskbar and embedded applications.  
   Features games, a music player, and much more.*
   Features games, a music player and much more.*
