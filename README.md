@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Projects
 
-- 🖥️ **<a href="https://onestudio007.us-east-1.gists.org/" target="_blank">OneStudio</a>**  
+- 🖥️ **<a href="https://onestudio.us-east-1.gists.org/" target="_blank">OneStudio</a>**  
   *A real-time collaboration platform with HD video calls, group meetings, and virtual backgrounds.  
   Supports Google OAuth, AI smart replies, and live rooms.*
 
