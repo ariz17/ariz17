@@ -18,7 +18,7 @@
 ## 🛠️ Languages and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mongodb,expressjs,react,nodejs,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mongodb,react,nodejs,netlify&theme=dark" />
 </div>
 <br><br>
 
