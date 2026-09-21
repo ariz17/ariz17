@@ -12,12 +12,9 @@
 
 
 ## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=ariz17&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ariz17&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ariz17&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariz17&show_icons=true&locale=en" alt="ariz17" /></p>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ariz17&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz17" alt="ariz17" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth&type=horizontal&theme=gruvbox)
