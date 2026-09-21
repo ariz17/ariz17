@@ -53,6 +53,13 @@
 
   <a href="mailto:arbabrizviwork@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="35" height="35" alt="Gmail" />
-  </a>
+  </a> &nbsp;&nbsp;
+
+    
+
+<a href="https://www.geeksforgeeks.org/user/rockyro8256/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+       width="35" height="35" alt="GeeksforGeeks" />
+</a>
 </div>
 </div>
